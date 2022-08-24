@@ -1,4 +1,4 @@
-#Crypto Payment for Gonana Mobile App
+# Crypto Payment for Gonana Mobile App
 ## Run the Project Locally
 
 Clone the repo and run `npm install` to install the required dependencies.
